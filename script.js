@@ -21,3 +21,9 @@ function show1979(){
     document.getElementById("picAboutDay").src = "https://picsum.photos/200/300";
     
 }
+
+function show2007(){
+    document.getElementById("date").innerText = "May 3rd, 2007";
+    document.getElementById("picAboutDay").src = "https://picsum.photos/200/300";
+    
+}
