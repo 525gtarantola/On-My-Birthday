@@ -1,3 +1,14 @@
 body {
-    background: #93709F; 
+    background: #B3EBFF;
+    margin: 5%; 
+    font-family: 'Rum Raisin', sans-serif;
 }
+
+img {
+    float: center;
+    width:  500px;
+    height: 500px;
+    object-fit: cover;
+    border: 5px solid #ECFAFF;
+}
+
