@@ -52,6 +52,7 @@ body {
   cursor: pointer;
   border-radius: 16px;
   font-family: 'Rum Raisin', sans-serif;
+  margin-bottom: 20px;
   }
   
   #cakepic {
@@ -59,18 +60,14 @@ body {
    height:100px
   }
   
-  pleasecenter {
+  booty {
     justify-content: center;
   }
   
-  #me {
-    height:640px;
-    width: 630px;
+  #lol {
+    height:540px;
+    width: 730px;
   }
   
-  #meee {
-    height:640px;
-    width: 630px;
-  }
   
   

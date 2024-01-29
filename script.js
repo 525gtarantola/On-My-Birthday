@@ -1,34 +1,29 @@
-function firstAssistant() {
-    document.getElementById('words').innerText= ' ★ On February 28, 1911, President William Howard Taft made a groundbreaking appointment by nominating William H. Lewis, an African American from Massachusetts, to the position of Assistant Attorney General of the United States. This nomination was significant for several reasons, notably for being one of the highest federal appointments of an African American up to that time. Lewiss appointment was a notable step in the long journey towards racial equality in the United States, coming at a time when African Americans faced widespread discrimination and segregation under Jim Crow laws, particularly in the South.'
-    document.getElementById('me').src = '/images/president.jpg' 
-    document.getElementById('meee').src = '/images/will.jpg' 
+function show1496() {
+    document.getElementById('words').innerText= ' On May 3rd, 1469, Niccolò Machiavelli, a Renaissance-era political philosopher, was born in Florence, Italy. His birth marked the beginning of a life that would significantly influence political thought and strategy. Machiavelli is best known for his seminal work, "The Prince," where he explored pragmatic and often controversial ideas on leadership, power, and statecraft.'
+    document.getElementById('lol').src = 'images/nic.jpg' 
 
 }
 
-function doubleHelix() {
-    document.getElementById('words').innerText= ' ★ On February 28, 1953, James Watson and Francis Crick made a groundbreaking scientific discovery, they determined the structure of DNA, identifying it as a double helix. This discovery was a monumental achievement in the field of molecular biology and genetics, fundamentally changing our understanding of how genetic information is stored and transmitted in living organisms.'
-    document.getElementById('me').src = '/images/science.webp' 
-    document.getElementById('meee').src = '/images/alsoscience.webp' 
+function show1802() {
+    document.getElementById('words').innerText= ' On May 3, 1802, the city of Washington, D.C. was incorporated as a city. It became the capital of the United States.'
+    document.getElementById('lol').src = 'images/DC.png' 
 }
 
-function londonBus() {
-    document.getElementById('words').innerText= ' ★ On February 28, 1975, a tragic and catastrophic event occurred in Londons underground subway system, known as the Tube, marking one of the darkest days in its history. A Northern City Line train failed to stop at Moorgate station, one of the networks busiest stations, and crashed into the dead-end tunnel beyond the platform. This horrific accident resulted in the deaths of 43 people, including the trains driver, and injured 74 others, making it the worst disaster in the history of the London Underground up to that time.'
-    document.getElementById('me').src = '/images/bus.jpg' 
-    document.getElementById('meee').src = '/images/bridgeasf.jpg' 
-
-}
-
-function princessDiana() {
-    document.getElementById('words').innerText= ' ★ On February 28, 1996, a significant moment in British royal history occurred when Princess Diana agreed to divorce Prince Charles. This decision marked the end of a marriage that had been under intense public scrutiny for many years and was a major event not only for the British royal family but also for the public both in the United Kingdom and around the world.'
-    document.getElementById('me').src = '/images/princess.jpg' 
-    document.getElementById('meee').src = '/images/divorce.jpg' 
+function show1947() {
+    document.getElementById('words').innerText= ' The post-World War II constitution of Japan, often called the "Constitution of Japan" or the "Postwar Constitution," was enacted on May 3, 1947.    '
+    document.getElementById('lol').src = 'images/japan.jpg' 
 
 }
 
-function covidRise() {
-    document.getElementById('words').innerText= ' ★ On February 28, 2020, the world was grappling with the escalating situation of the COVID-19 pandemic. The number of countries reporting cases of the novel coronavirus, SARS-CoV-2, had risen to nearly 60, signaling a significant and worrying spread of the virus beyond its initial outbreak center in Wuhan, China. This marked a critical juncture in the global health crisis, as the disease was not just a regional issue anymore but a worldwide concern, affecting continents and numerous countries with varying degrees of severity.'
-    document.getElementById('me').src = '/images/sick.jpg' 
-    document.getElementById('meee').src = '/images/GRAPH.avif' 
+function show1979() {
+    document.getElementById('words').innerText= 'May 3rd is a significant date in the political history of the United Kingdom, particularly associated with Margaret Thatcher. On this day in 1979, Margaret Thatcher made history by becoming the first female Prime Minister of the United Kingdom. As leader of the Conservative Party, Thatcher's election marked a transformative moment in British politics.'
+    document.getElementById('lol').src = 'images/margaret.webp' 
+
+}
+
+function show2007() {
+    document.getElementById('words').innerText= ' The Madeleine McCann disappearance is a deeply unsettling and unresolved mystery that unfolded on the evening of May 3, 2007, in Praia da Luz, Portugal. Three-year-old Madeleine vanished from her family's holiday apartment while her parents were dining at a nearby restaurant. The discovery of her disappearance sparked an extensive international search, drawing attention to the case globally. Despite numerous investigations and leads, Madeleine McCann's fate remains unknown, leaving the world with lingering questions about the circumstances surrounding her disappearance and the ongoing efforts to find her.'
+    document.getElementById('lol').src = 'images/maddie.jpg' 
 
 }
 
