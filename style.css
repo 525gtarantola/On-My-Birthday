@@ -1,27 +1,27 @@
 body {
-    background-color: black;
+    background-color: #B3EBFF;
     padding-top: 45px;
   
   }
   
   h1 {
-    color: rgb(236, 163, 227);
+    color: #56d2ff;
     text-align: center;
-    font-family: ltc-broadway, sans-serif;
+    font-family: 'Rum Raisin', sans-serif;
     font-size: 6rem;
   }
   
   h2 {
     text-align: center;
     color: white;
-    font-family: "owners", sans-serif;
+    font-family: 'Rum Raisin', sans-serif;
     font-weight: 400;
     font-style: normal;
     margin-bottom: auto;
   }
   
   #words {
-    color: #613452;
+    color: #56d2ff;
     background-color: white;
     font-size: large;
     padding: 10px 20px 10px 20px;
@@ -30,11 +30,11 @@ body {
   
   button:hover {
     background-color: white;
-    color:rgb(151, 75, 140); 
+    color:#56d2ff; 
   }
   
   button:active {
-    background-color:  rgb(169, 124, 163);
+    background-color: #56d2ff;
   }
   
   #textbox {
@@ -42,15 +42,16 @@ body {
     margin-bottom: 20px;
   }
   button {
-    height: 70px;
-    width: 300px;
-    background-color: rgb(236, 163, 227);
-    border-radius: 10px;
-    margin-bottom: 80px;
-    text-align: center;
-    font-family: ltc-broadway, sans-serif;
-    margin-right: 25px;  
-    font-size: larger;
+    background-color:  #56d2ff;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+  font-family: 'Rum Raisin', sans-serif;
   }
   
   #cakepic {
