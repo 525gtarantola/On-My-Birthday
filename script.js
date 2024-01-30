@@ -16,13 +16,13 @@ function show1947() {
 }
 
 function show1979() {
-    document.getElementById('words').innerText= 'May 3rd is a significant date in the political history of the United Kingdom, particularly associated with Margaret Thatcher. On this day in 1979, Margaret Thatcher made history by becoming the first female Prime Minister of the United Kingdom. As leader of the Conservative Party, Thatcher's election marked a transformative moment in British politics.'
+    document.getElementById('words').innerText= 'May 3rd is a significant date in the political history of the United Kingdom, particularly associated with Margaret Thatcher. On this day in 1979, Margaret Thatcher made history by becoming the first female Prime Minister of the United Kingdom. As leader of the Conservative Party, Thatchers election marked a transformative moment in British politics.'
     document.getElementById('lol').src = 'images/margaret.webp' 
 
 }
 
 function show2007() {
-    document.getElementById('words').innerText= ' The Madeleine McCann disappearance is a deeply unsettling and unresolved mystery that unfolded on the evening of May 3, 2007, in Praia da Luz, Portugal. Three-year-old Madeleine vanished from her family's holiday apartment while her parents were dining at a nearby restaurant. The discovery of her disappearance sparked an extensive international search, drawing attention to the case globally. Despite numerous investigations and leads, Madeleine McCann's fate remains unknown, leaving the world with lingering questions about the circumstances surrounding her disappearance and the ongoing efforts to find her.'
+    document.getElementById('words').innerText= ' The Madeleine McCann disappearance is a deeply unsettling and unresolved mystery that unfolded on the evening of May 3, 2007, in Praia da Luz, Portugal. Three-year-old Madeleine vanished from her familys holiday apartment while her parents were dining at a nearby restaurant. The discovery of her disappearance sparked an extensive international search, drawing attention to the case globally. Despite numerous investigations and leads, Madeleine McCanns fate remains unknown, leaving the world with lingering questions about the circumstances surrounding her disappearance and the ongoing efforts to find her.'
     document.getElementById('lol').src = 'images/maddie.jpg' 
 
 }
